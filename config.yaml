@@ -5,8 +5,8 @@ meta:
   author: soundmonster
   url: https://github.com/soundmonster/samoklava
 units:
-  kx: cx
-  ky: cy
+  kx: u
+  ky: u
   px: 2
   py: 2
 points:
