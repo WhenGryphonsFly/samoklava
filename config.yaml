@@ -10,24 +10,6 @@ units:
   px: 2
   py: 2
 points:
-  key:
-    footprints:
-      choc_hotswap:
-        type: choc
-        params:
-          hotswap: true
-          reverse: true
-          keycaps: true
-        nets:
-          from: =colrow
-          to: =column_net
-      diode:
-        type: diode
-        nets:
-          from: =colrow
-          to: =row_net
-        anchor:
-          shift: [0, -5]
   zones:
     matrix:
       key.padding: ky
